@@ -1,0 +1,156 @@
+.header{
+    height:150px;
+    float:left;
+    width:100%;
+    border-bottom: 2px solid black;
+    background-color: #F0FFF0;
+    
+}
+
+.header h1{
+    padding-left:20px;
+    display:inline-block;
+    color:#008080	;
+    font-size:60px;
+}
+
+img#logo{
+    padding-left:400px;
+    padding-top:10px ;
+}
+
+.btn1 , .btn2{
+    float:right;
+    margin-top: 20px;
+    margin-right: 10px;
+    color:white;
+
+}
+
+.btn1{
+    background-color: blue;
+}
+
+.btn2{
+    background-color: green;
+}
+.main{
+
+    width:100%;
+    height:800px;
+    background-size: cover;
+    background-image: url(https://c8.alamy.com/comp/HPF68N/laptop-screen-with-web-development-concept-on-landing-page-closeup-HPF68N.jpg);
+    opacity:1;
+    
+    }
+.main3{
+    width:100%;
+    height:600px;
+    background-color: floralwhite;
+    
+}
+
+
+.description{
+    color:black;
+    text-align: center;
+    font-size: 25px;
+    opacity: 1;
+}
+.greet{
+    color:black;
+    text-align: center;
+    
+}
+
+.topic{
+    display:flex;
+    align-items: flex-end;
+}
+
+.image1{
+    margin-left:130px;
+    opacity:1;
+    border:2px solid black;
+    margin-right:100px;
+    height:200px;
+    width:200px;
+    margin-top: 30px;
+
+
+    
+    
+}
+
+.image2{
+    border:2px solid black;
+    margin-left:120px;
+    margin-right:100px;
+    opacity:1;
+    width:200px;
+    height:200px;
+
+
+
+    
+}
+
+.image3{
+    border:2px solid black;
+    margin-left:130px;
+    margin-right:100px;
+    opacity:1;
+    width:200px;
+    height:200px;
+
+    
+    
+}
+.content{
+    list-style: none;
+    display: flex;
+    
+}
+.content li{
+    margin-left:140px;
+    margin-right:120px;
+    font-size:25px;
+    
+}
+.tag{
+    margin-top: 80px;
+    text-align: center;
+}
+
+
+.form-control{
+    display:block;
+    width:40%;
+    padding: .375rem .75rem;
+    font-size:1 rem;
+    line-height: 1.5;
+    color:#495057;
+    background-color:#fff;
+    background-clip: padding-box;
+    border:1 px solid #ced4da;
+    border-radius: .25rem;
+    transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+
+}
+.btn-primary{
+    color:white;
+    background-color:blue;
+    background-color:blur;
+
+}
+
+
+.footer{
+    
+    height:150px;
+    width:100%;
+    border-top: 2px solid black;
+    background-color:#D3D3D3	; 
+    opacity:1;
+}
